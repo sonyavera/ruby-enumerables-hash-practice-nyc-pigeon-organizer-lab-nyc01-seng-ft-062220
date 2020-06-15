@@ -12,6 +12,7 @@ def nyc_pigeon_organizer(data)
     end
   end
 end
+end
 
 
 # - Iterate over nested hashes
